@@ -6,6 +6,8 @@ This project predicts whether a credit card client will default on their payment
 
 The dataset used is the **Default of Credit Card Clients Dataset** from the UCI Machine Learning Repository.
 
+<img width="945" height="837" alt="image" src="https://github.com/user-attachments/assets/7f5df71f-8ce1-44d8-addd-d7cbf9f24820" />
+
 ### 🎯 Goals
 
 - Compare multiple classification models  
